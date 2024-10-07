@@ -23,7 +23,7 @@ Instead of showing the remaining time or empty remaining time when the start of 
 - 64x64 RGB LED Matrix Panel Full Color 192x192 mm 3mm Pitch 4096 LEDs Adjustable Brightness Brand: iiunius     [https://www.amazon.ca/dp/B0BYJHMFSQ?ref=ppx_yo2ov_dt_b_fed_asin_title]
 - Robojax DS1307 AT24C32 Real Time Clock RTC I2c Module for Arduino    [https://www.amazon.ca/dp/B07GGM7GL4?ref=ppx_yo2ov_dt_b_fed_asin_title]
 - Arduino Mega 2560 Rev3      [https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?srsltid=AfmBOorYKxeyBhkbbV5RMA4XHm1_XfgZI-iuLKvp3k0p0sYNPKFb4Qjt]
-- 3D printer Prusa MK3S+
+- 3D printer Prusa MK3S+ for the case behind the matrix
 
 
 ## Arduino connections
@@ -82,7 +82,7 @@ Au lieu d'afficher le temps restant ou de le temps restant vide lorsque le débu
 - 64x64 RGB LED Matrix Panel Full Color 192x192 mm 3mm Pitch 4096 LEDs Adjustable Brightness Brand: iiunius     [https://www.amazon.ca/dp/B0BYJHMFSQ?ref=ppx_yo2ov_dt_b_fed_asin_title]
 - Robojax DS1307 AT24C32 Real Time Clock RTC I2c Module for Arduino    [https://www.amazon.ca/dp/B07GGM7GL4?ref=ppx_yo2ov_dt_b_fed_asin_title]
 - Arduino Mega 2560 Rev3      [https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?srsltid=AfmBOorYKxeyBhkbbV5RMA4XHm1_XfgZI-iuLKvp3k0p0sYNPKFb4Qjt]
-- 3D printer Prusa MK3S+
+- 3D printer Prusa MK3S+ pour le boitier derrière le panneau
 
 ## Connections du matériel sur le Arduino
 
